@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3]
+"Directory"="3"
+"MajorVersion"=dword:00000003
+"MinorVersion"=dword:00000000
